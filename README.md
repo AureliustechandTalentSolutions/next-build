@@ -142,6 +142,7 @@ This container can be reached from your localhost (e.g. `redis://localhost:6379`
 
 ## Documentation (WIP)
 
+- [Aurelius Federal Platform - Resource Library](READMEs/aurelius-federal-platform.md)
 - [Template Migration](docs/template-migration/README.md)
 - [Code Guidelines](READMEs/code-guidelines.md)
 - [Testing](READMEs/testing.md)
